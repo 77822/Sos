@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HealthAR - Consultas Médicas Virtuais com Realidade Aumentada</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>HealthAR</h1>
+        <p>Transformando a saúde com Realidade Aumentada</p>
+    </header>
+    
+    <section id="about">
+        <h2>Sobre Nós</h2>
+        <p>HealthAR está revolucionando a forma como as consultas médicas são realizadas. Com nossa plataforma inovadora, você pode⬤
